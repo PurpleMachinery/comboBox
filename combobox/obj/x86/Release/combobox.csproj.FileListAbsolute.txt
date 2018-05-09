@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\combobox\combobox\bin\Release\combobox.exe
+C:\Users\Aluno\Desktop\combobox\combobox\bin\Release\combobox.pdb
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Release\combobox.Form1.resources
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Release\combobox.Properties.Resources.resources
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Release\combobox.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Release\combobox.exe
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Release\combobox.pdb

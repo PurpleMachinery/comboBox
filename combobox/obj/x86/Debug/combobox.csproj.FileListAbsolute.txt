@@ -1,0 +1,15 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\bin\Debug\combobox.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\bin\Debug\combobox.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\obj\x86\Debug\combobox.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\obj\x86\Debug\combobox.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\obj\x86\Debug\combobox.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\obj\x86\Debug\combobox.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\combobox\obj\x86\Debug\combobox.pdb
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.exe
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.pdb
+C:\Users\Aluno\Desktop\combobox\combobox\bin\Debug\combobox.exe
+C:\Users\Aluno\Desktop\combobox\combobox\bin\Debug\combobox.pdb
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.Form1.resources
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.Properties.Resources.resources
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\combobox\combobox\obj\x86\Debug\combobox.csprojResolveAssemblyReference.cache
